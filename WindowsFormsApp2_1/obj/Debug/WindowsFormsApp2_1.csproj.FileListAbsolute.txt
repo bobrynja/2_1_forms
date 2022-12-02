@@ -1,0 +1,10 @@
+C:\Users\bobrynja\SynologyDrive\Документы\learn\колледж\3 курс\практика\WindowsFormsApp2_1\WindowsFormsApp2_1\bin\Debug\WindowsFormsApp2_1.exe.config
+C:\Users\bobrynja\SynologyDrive\Документы\learn\колледж\3 курс\практика\WindowsFormsApp2_1\WindowsFormsApp2_1\bin\Debug\WindowsFormsApp2_1.exe
+C:\Users\bobrynja\SynologyDrive\Документы\learn\колледж\3 курс\практика\WindowsFormsApp2_1\WindowsFormsApp2_1\bin\Debug\WindowsFormsApp2_1.pdb
+C:\Users\bobrynja\SynologyDrive\Документы\learn\колледж\3 курс\практика\WindowsFormsApp2_1\WindowsFormsApp2_1\obj\Debug\WindowsFormsApp2_1.csprojAssemblyReference.cache
+C:\Users\bobrynja\SynologyDrive\Документы\learn\колледж\3 курс\практика\WindowsFormsApp2_1\WindowsFormsApp2_1\obj\Debug\WindowsFormsApp2_1.Form1.resources
+C:\Users\bobrynja\SynologyDrive\Документы\learn\колледж\3 курс\практика\WindowsFormsApp2_1\WindowsFormsApp2_1\obj\Debug\WindowsFormsApp2_1.Properties.Resources.resources
+C:\Users\bobrynja\SynologyDrive\Документы\learn\колледж\3 курс\практика\WindowsFormsApp2_1\WindowsFormsApp2_1\obj\Debug\WindowsFormsApp2_1.csproj.GenerateResource.cache
+C:\Users\bobrynja\SynologyDrive\Документы\learn\колледж\3 курс\практика\WindowsFormsApp2_1\WindowsFormsApp2_1\obj\Debug\WindowsFormsApp2_1.csproj.CoreCompileInputs.cache
+C:\Users\bobrynja\SynologyDrive\Документы\learn\колледж\3 курс\практика\WindowsFormsApp2_1\WindowsFormsApp2_1\obj\Debug\WindowsFormsApp2_1.exe
+C:\Users\bobrynja\SynologyDrive\Документы\learn\колледж\3 курс\практика\WindowsFormsApp2_1\WindowsFormsApp2_1\obj\Debug\WindowsFormsApp2_1.pdb
